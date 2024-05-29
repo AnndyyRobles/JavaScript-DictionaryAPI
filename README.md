@@ -2,7 +2,7 @@
 
 JavaScript-DictionaryAPI is a web application that consumes the Dictionary API to provide word definitions and pronunciations. Users can search for words to retrieve their meanings, part of speech, phonetics, and examples. The application also allows users to listen to the pronunciation of the words.
 
-![Screenshot 1]([imgs/screenshot1.png](https://github.com/AnndyyRobles/JavaScript-DictionaryAPI/blob/main/imgs/img1.jpg))
+![Screenshot 1](https://github.com/AnndyyRobles/JavaScript-DictionaryAPI/blob/main/imgs/img1.jpg)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ JavaScript-DictionaryAPI is a web application that consumes the Dictionary API t
 ## Screenshots
 
 
-![Screenshot 2]([imgs/screenshot2.png](https://github.com/AnndyyRobles/JavaScript-DictionaryAPI/blob/main/imgs/img2.jpg))
+![Screenshot 2](https://github.com/AnndyyRobles/JavaScript-DictionaryAPI/blob/main/imgs/img2.jpg)
 
 ## Installation
 
