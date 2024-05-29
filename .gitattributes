@@ -1,6 +1,7 @@
 # .gitattributes
 
-*.js linguist-language=JavaScript
-
+*.js linguist-detectable=true
 *.html linguist-detectable=true
 *.css linguist-detectable=true
+*.css linguist-vendored
+*.html linguist-vendored
